@@ -49,3 +49,11 @@ $ python scripts/test.py --gpu 0 --arch dmmtnet --dataset mosmeed
 ## Citation
 
 If you find DM2TNet useful in your research, please consider citing:
+```
+@article{wang2022dual,
+  title={Dual Multi-scale Mean Teacher Network for Semi-supervised Infection Segmentation in Chest CT Volume for COVID-19},
+  author={Wang, Liansheng and Wang, Jiacheng and Zhu, Lei and Fu, Huazhu and Li, Ping and Cheng, Gary and Feng, Zhipeng and Li, Shuo and Heng, Pheng-Ann},
+  journal={arXiv preprint arXiv:2211.05548},
+  year={2022}
+}
+```
