@@ -1,5 +1,5 @@
 # utils/dcm2npy.py
 # utils/pre.py
-scripts/train.py
-scripts/semi-train.py
+# scripts/train.py
+# scripts/semi-train.py
 logs/
