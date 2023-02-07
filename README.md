@@ -37,7 +37,19 @@ $ python scripts/prepare_data.py
 
 ### Training
 
-TODO
+Before semi-training the network, you could train the basic parameters under full-supervision for the soft initialization, i.e.,
+
+```bash
+$ python scripts/train.py $PARAM
+```
+
+Then, you could refine the parameters using extensive unlabeled data, i.e.,
+
+```bash
+$ python scripts/semi-train.py $PARAM
+```
+
+Please change the $PARAM to your desired inputs.
 
 ### Test
 
