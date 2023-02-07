@@ -4,11 +4,17 @@
 
 This is an official release of the paper **Dual Multi-scale Mean Teacher Network for Semi-supervised Infection Segmentation in Chest CT Volume for COVID-19**.
 
+> [**Dual Multi-scale Mean Teacher Network for Semi-supervised Infection Segmentation in Chest CT Volume for COVID-19**](https://ieeexplore.ieee.org/abstract/document/9984948/), <br/> > Liansheng Wang, **Jiacheng Wang**, Lei Zhu, Huazhu Fu, Ping Li, Gary Cheng, Zhipeng Feng, Shuo Li, and Pheng-Ann Heng
+> <br/>
+> In: IEEE Transactions on Cybernetics (T-CYB), 2023 <br/>
+> [[arXiv](https://arxiv.org/pdf/2211.05548)][[Bibetex](https://github.com/jcwang123/DM2TNet#citation)]
+
 <div align="center" border=> <img src=arch.jpg width="700" > </div>
 
 ## News
 
 - **[2/6 2023] We have uploaded the training codes.**
+- **[11/10 2022] This paper has been accepted to T-CYB.**
 - **[10/25 2022] We have created the repo.**
 
 ## Code List
@@ -65,9 +71,10 @@ If you find DM2TNet useful in your research, please consider citing:
 
 ```
 @article{wang2022dual,
-  title={Dual Multi-scale Mean Teacher Network for Semi-supervised Infection Segmentation in Chest CT Volume for COVID-19},
+  title={Dual Multiscale Mean Teacher Network for Semi-Supervised Infection Segmentation in Chest CT Volume for COVID-19},
   author={Wang, Liansheng and Wang, Jiacheng and Zhu, Lei and Fu, Huazhu and Li, Ping and Cheng, Gary and Feng, Zhipeng and Li, Shuo and Heng, Pheng-Ann},
-  journal={arXiv preprint arXiv:2211.05548},
-  year={2022}
+  journal={IEEE Transactions on Cybernetics},
+  year={2022},
+  publisher={IEEE}
 }
 ```
